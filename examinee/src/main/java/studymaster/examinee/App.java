@@ -11,8 +11,7 @@ public class App extends Client {
 		Connector.setServer(Configure.SERVER);
 		Connector.setEndpoint(Configure.ENDPOINT);
 
-		//launch
-		launch(args);
+		//launchvk;ldskffds;lf
 	}
 
 	@Override
